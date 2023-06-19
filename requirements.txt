@@ -1,0 +1,8 @@
+pandas 
+mlflow==2.2.2
+notebook
+numpy
+sklearn
+pyYAML
+from-root
+boto3
