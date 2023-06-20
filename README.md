@@ -10,9 +10,9 @@
 - AWSAppRunnerServicePolicyForECRAccess
 
 
-2. Create s3 bucket
+## 2. Create s3 bucket
 
-3. Create a RDS Database
+## 3. Create a RDS Database
 
-4. Install MySQL Workbench
+## 4. Install MySQL Workbench
 
